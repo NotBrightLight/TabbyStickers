@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tabbychatstickersaddon",
+  "name": "TabbyChatStickersAddon",
+  "description": "Server side mod for stickers in TabbyChat",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BrightLight"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
